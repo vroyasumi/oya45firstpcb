@@ -240,7 +240,7 @@
   )
 
   (module Keebio-Parts:Elite-C-castellated-24pin-holes (layer B.Cu) (tedit 5E2C9D09) (tstamp 612C57D6)
-    (at -79.609001 26.62425 180)
+    (at 218.28125 36.5125 180)
     (path /612C7099)
     (fp_text reference U1 (at 0 -1.625) (layer B.SilkS) hide
       (effects (font (size 1.2 1.2) (thickness 0.2032)) (justify mirror))
@@ -526,7 +526,7 @@
   )
 
   (module MX_Only:MXOnly-2U-Hotswap-ReversedStabilizers (layer B.Cu) (tedit 60F271DB) (tstamp 612C5754)
-    (at -40.080001 25.85015 180)
+    (at 161.925 114.3 180)
     (path /61374F37)
     (attr smd)
     (fp_text reference MX48 (at 0 -3.175) (layer F.Fab)
@@ -585,7 +585,7 @@
   )
 
   (module MX_Only:MXOnly-2U-Hotswap-ReversedStabilizers (layer B.Cu) (tedit 60F271DB) (tstamp 612C5728)
-    (at -155.530001 5.01015 180)
+    (at 123.825 114.3 180)
     (path /61377FE9)
     (attr smd)
     (fp_text reference MX47 (at 0 -3.175) (layer F.Fab)
@@ -644,7 +644,7 @@
   )
 
   (module MX_Only:MXOnly-6U-Centered-Hotswap-ReversedStabilizers (layer B.Cu) (tedit 60F27653) (tstamp 612C56FC)
-    (at -78.180001 5.01015 180)
+    (at 142.875 114.3 180)
     (path /61375469)
     (fp_text reference MX46 (at 0 -3.175) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -692,7 +692,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C56DA)
-    (at -105.635001 25.201251 180)
+    (at 142.875 38.1 180)
     (path /612DFC1C)
     (attr smd)
     (fp_text reference MX45 (at 0 -3.175) (layer F.Fab)
@@ -747,7 +747,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C56B2)
-    (at -30.555001 66.241251 180)
+    (at 123.825 38.1 180)
     (path /612DF65D)
     (attr smd)
     (fp_text reference MX44 (at 0 -3.175) (layer F.Fab)
@@ -802,7 +802,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C568A)
-    (at -50.755001 48.241251 180)
+    (at 104.775 38.1 180)
     (path /612DF021)
     (attr smd)
     (fp_text reference MX43 (at 0 -3.175) (layer F.Fab)
@@ -857,7 +857,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C5662)
-    (at -70.955001 48.241251 180)
+    (at 85.725 38.1 180)
     (path /612DEA53)
     (attr smd)
     (fp_text reference MX42 (at 0 -3.175) (layer F.Fab)
@@ -912,7 +912,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C563A)
-    (at -50.755001 68.441251 180)
+    (at 66.675 38.1 180)
     (path /612DDAF7)
     (attr smd)
     (fp_text reference MX41 (at 0 -3.175) (layer F.Fab)
@@ -967,7 +967,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C5612)
-    (at -30.555001 86.441251 180)
+    (at 228.6 114.3 180)
     (path /612DD5F6)
     (attr smd)
     (fp_text reference MX40 (at 0 -3.175) (layer F.Fab)
@@ -1022,7 +1022,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C55EA)
-    (at -185.255001 4.361251 180)
+    (at 209.55 114.3 180)
     (path /612DD0E1)
     (attr smd)
     (fp_text reference MX39 (at 0 -3.175) (layer F.Fab)
@@ -1077,7 +1077,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C55C2)
-    (at -166.235001 44.761251 180)
+    (at 190.5 114.3 180)
     (path /612DCB9F)
     (attr smd)
     (fp_text reference MX38 (at 0 -3.175) (layer F.Fab)
@@ -1132,7 +1132,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C559A)
-    (at -30.555001 46.041251 180)
+    (at 171.45 114.3 180)
     (path /612DC482)
     (attr smd)
     (fp_text reference MX37 (at 0 -3.175) (layer F.Fab)
@@ -1187,7 +1187,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C5572)
-    (at -50.755001 88.641251 180)
+    (at 152.4 114.3 180)
     (path /612DBEE6)
     (attr smd)
     (fp_text reference MX36 (at 0 -3.175) (layer F.Fab)
@@ -1242,7 +1242,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C554A)
-    (at -91.155001 48.241251 180)
+    (at 133.35 114.3 180)
     (path /612DB9B3)
     (attr smd)
     (fp_text reference MX35 (at 0 -3.175) (layer F.Fab)
@@ -1297,7 +1297,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C5522)
-    (at -125.835001 25.201251 180)
+    (at 114.3 114.3 180)
     (path /612DB3FE)
     (attr smd)
     (fp_text reference MX34 (at 0 -3.175) (layer F.Fab)
@@ -1352,7 +1352,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C54FA)
-    (at -185.255001 24.561251 180)
+    (at 95.25 114.3 180)
     (path /612DABAB)
     (attr smd)
     (fp_text reference MX33 (at 0 -3.175) (layer F.Fab)
@@ -1407,7 +1407,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C54D2)
-    (at -146.035001 25.201251 180)
+    (at 76.2 114.3 180)
     (path /612DA588)
     (attr smd)
     (fp_text reference MX32 (at 0 -3.175) (layer F.Fab)
@@ -1462,7 +1462,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C54AA)
-    (at -111.355001 45.401251 180)
+    (at 57.15 114.3 180)
     (path /612D9F38)
     (attr smd)
     (fp_text reference MX31 (at 0 -3.175) (layer F.Fab)
@@ -3167,7 +3167,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4FD2)
-    (at -25.655 120.748251 180)
+    (at -207.391 -25.273 180)
     (path /61359D12)
     (attr smd)
     (fp_text reference D45 (at -0.0254 -1.4) (layer F.SilkS)
@@ -3206,7 +3206,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4FBE)
-    (at -161.335 16.438251 180)
+    (at -207.391 -23.241 180)
     (path /6135983D)
     (attr smd)
     (fp_text reference D44 (at -0.0254 -1.4) (layer F.SilkS)
@@ -3245,7 +3245,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4FAA)
-    (at -46.455 120.278251 180)
+    (at -207.391 -21.209 180)
     (path /613591C9)
     (attr smd)
     (fp_text reference D43 (at -0.0254 -1.4) (layer F.SilkS)
@@ -3284,7 +3284,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4F96)
-    (at -56.855 120.278251 180)
+    (at -207.391 -19.177 180)
     (path /61358B5F)
     (attr smd)
     (fp_text reference D42 (at -0.0254 -1.4) (layer F.SilkS)
@@ -3323,7 +3323,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4F82)
-    (at -146.855 36.638251 180)
+    (at -207.391 -17.145 180)
     (path /61356F4C)
     (attr smd)
     (fp_text reference D41 (at -0.0254 -1.4) (layer F.SilkS)
@@ -3362,7 +3362,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4F6E)
-    (at -161.335 19.108251 180)
+    (at -207.391 -15.113 180)
     (path /6136BCDA)
     (attr smd)
     (fp_text reference D40 (at -0.0254 -1.4) (layer F.SilkS)
@@ -3401,7 +3401,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4F5A)
-    (at -161.335 21.778251 180)
+    (at -207.391 -13.081 180)
     (path /6136B666)
     (attr smd)
     (fp_text reference D39 (at -0.0254 -1.4) (layer F.SilkS)
@@ -3440,7 +3440,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4F46)
-    (at -161.335 24.448251 180)
+    (at -207.391 -11.049 180)
     (path /6136AFA2)
     (attr smd)
     (fp_text reference D38 (at -0.0254 -1.4) (layer F.SilkS)
@@ -3479,7 +3479,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4F32)
-    (at -146.855 39.308251 180)
+    (at -207.391 -9.017 180)
     (path /6136A8A7)
     (attr smd)
     (fp_text reference D37 (at -0.0254 -1.4) (layer F.SilkS)
@@ -3518,7 +3518,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4F1E)
-    (at -36.055 120.278251 180)
+    (at -207.391 -6.985 180)
     (path /6136953F)
     (attr smd)
     (fp_text reference D36 (at -0.0254 -1.4) (layer F.SilkS)
@@ -3557,7 +3557,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4F0A)
-    (at -146.855 41.978251 180)
+    (at -207.391 -4.953 180)
     (path /61368FD9)
     (attr smd)
     (fp_text reference D35 (at -0.0254 -1.4) (layer F.SilkS)
@@ -3596,7 +3596,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4EF6)
-    (at -146.855 44.648251 180)
+    (at -207.391 -2.921 180)
     (path /613689BF)
     (attr smd)
     (fp_text reference D34 (at -0.0254 -1.4) (layer F.SilkS)
@@ -3635,7 +3635,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4EE2)
-    (at -146.855 47.318251 180)
+    (at -207.391 -0.889 180)
     (path /613684F9)
     (attr smd)
     (fp_text reference D33 (at -0.0254 -1.4) (layer F.SilkS)
@@ -3674,7 +3674,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4ECE)
-    (at -161.335 27.118251 180)
+    (at -207.391 1.143 180)
     (path /6136802E)
     (attr smd)
     (fp_text reference D32 (at -0.0254 -1.4) (layer F.SilkS)
@@ -3713,7 +3713,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4EBA)
-    (at -161.335 29.788251 180)
+    (at -207.391 3.175 180)
     (path /61367762)
     (attr smd)
     (fp_text reference D31 (at -0.0254 -1.4) (layer F.SilkS)
@@ -3752,7 +3752,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4EA6)
-    (at -161.335 32.458251 180)
+    (at -207.391 5.207 180)
     (path /61367166)
     (attr smd)
     (fp_text reference D30 (at -0.0254 -1.4) (layer F.SilkS)
@@ -3791,7 +3791,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4E92)
-    (at -146.855 49.988251 180)
+    (at -207.391 7.239 180)
     (path /61366B83)
     (attr smd)
     (fp_text reference D29 (at -0.0254 -1.4) (layer F.SilkS)
@@ -3830,7 +3830,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4E7E)
-    (at -146.855 52.658251 180)
+    (at -207.391 9.271 180)
     (path /613664F1)
     (attr smd)
     (fp_text reference D28 (at -0.0254 -1.4) (layer F.SilkS)
@@ -3869,7 +3869,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4E6A)
-    (at -77.655 120.278251 180)
+    (at -207.391 11.303 180)
     (path /61365E5A)
     (attr smd)
     (fp_text reference D27 (at -0.0254 -1.4) (layer F.SilkS)
@@ -3908,7 +3908,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4E56)
-    (at -25.655 118.078251 180)
+    (at -207.391 13.335 180)
     (path /61365872)
     (attr smd)
     (fp_text reference D26 (at -0.0254 -1.4) (layer F.SilkS)
@@ -3947,7 +3947,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4E42)
-    (at -240.955 14.288251 180)
+    (at -207.391 15.367 180)
     (path /6136525D)
     (attr smd)
     (fp_text reference D25 (at -0.0254 -1.4) (layer F.SilkS)
@@ -3986,7 +3986,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4E2E)
-    (at -108.855 117.438251 180)
+    (at -207.391 17.399 180)
     (path /61364CC5)
     (attr smd)
     (fp_text reference D24 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4025,7 +4025,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4E1A)
-    (at -108.855 120.108251 180)
+    (at -207.391 19.431 180)
     (path /6136459D)
     (attr smd)
     (fp_text reference D23 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4064,7 +4064,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4E06)
-    (at -240.955 -4.401749 180)
+    (at -207.391 23.495 180)
     (path /61363F4C)
     (attr smd)
     (fp_text reference D22 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4103,7 +4103,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4DF2)
-    (at -119.255 117.438251 180)
+    (at -207.391 21.463 180)
     (path /613634E1)
     (attr smd)
     (fp_text reference D21 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4142,7 +4142,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4DDE)
-    (at -119.255 120.108251 180)
+    (at -207.391 25.527 180)
     (path /61362EE5)
     (attr smd)
     (fp_text reference D20 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4181,7 +4181,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4DCA)
-    (at -240.955 -1.731749 180)
+    (at -207.391 27.559 180)
     (path /61362939)
     (attr smd)
     (fp_text reference D19 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4220,7 +4220,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4DB6)
-    (at -240.955 0.938251 180)
+    (at -207.391 29.591 180)
     (path /61362252)
     (attr smd)
     (fp_text reference D18 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4259,7 +4259,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4DA2)
-    (at -240.955 3.608251 180)
+    (at -207.391 31.623 180)
     (path /61361A6C)
     (attr smd)
     (fp_text reference D17 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4298,7 +4298,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4D8E)
-    (at -240.955 6.278251 180)
+    (at -207.391 33.655 180)
     (path /613613A3)
     (attr smd)
     (fp_text reference D16 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4337,7 +4337,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4D7A)
-    (at -240.955 8.948251 180)
+    (at -207.391 35.687 180)
     (path /61360C3F)
     (attr smd)
     (fp_text reference D15 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4376,7 +4376,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4D66)
-    (at -88.055 120.278251 180)
+    (at -207.391 37.719 180)
     (path /613605E4)
     (attr smd)
     (fp_text reference D14 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4415,7 +4415,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4D52)
-    (at -98.455 120.278251 180)
+    (at -207.391 39.751 180)
     (path /6135FEAD)
     (attr smd)
     (fp_text reference D13 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4454,7 +4454,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4D3E)
-    (at -129.655 117.438251 180)
+    (at -207.391 41.783 180)
     (path /6135F910)
     (attr smd)
     (fp_text reference D12 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4493,7 +4493,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4D2A)
-    (at -129.655 120.108251 180)
+    (at -207.391 43.815 180)
     (path /6135F02B)
     (attr smd)
     (fp_text reference D11 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4532,7 +4532,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4D16)
-    (at -140.055 117.438251 180)
+    (at -207.391 45.847 180)
     (path /6135DA75)
     (attr smd)
     (fp_text reference D10 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4571,7 +4571,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4D02)
-    (at -240.955 16.958251 180)
+    (at -207.391 47.879 180)
     (path /6135D456)
     (attr smd)
     (fp_text reference D9 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4610,7 +4610,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4CEE)
-    (at -240.955 19.628251 180)
+    (at -207.391 49.911 180)
     (path /6135CFA4)
     (attr smd)
     (fp_text reference D8 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4649,7 +4649,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4CDA)
-    (at -240.955 22.298251 180)
+    (at -207.391 51.943 180)
     (path /6135C9A8)
     (attr smd)
     (fp_text reference D7 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4688,7 +4688,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4CC6)
-    (at -140.055 120.108251 180)
+    (at -207.391 53.975 180)
     (path /6135C38E)
     (attr smd)
     (fp_text reference D6 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4727,7 +4727,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4CB2)
-    (at -207.455 56.198251 180)
+    (at -207.391 56.007 180)
     (path /6135BCF2)
     (attr smd)
     (fp_text reference D5 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4766,7 +4766,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4C9E)
-    (at -217.855 56.198251 180)
+    (at -207.391 58.039 180)
     (path /6135B6E2)
     (attr smd)
     (fp_text reference D4 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4805,7 +4805,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4C8A)
-    (at -207.455 58.868251 180)
+    (at -207.391 60.071 180)
     (path /6135B131)
     (attr smd)
     (fp_text reference D3 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4844,7 +4844,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4C76)
-    (at -240.955 11.618251 180)
+    (at -207.391 62.103 180)
     (path /6135AAB3)
     (attr smd)
     (fp_text reference D2 (at -0.0254 -1.4) (layer F.SilkS)
@@ -4883,13 +4883,13 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer B.Cu) (tedit 5B1AAB68) (tstamp 612C4C62)
-    (at -67.255 120.278251 180)
+    (at 158.14375 36.5125 90)
     (path /6135A291)
     (attr smd)
-    (fp_text reference D1 (at -0.0254 -1.4) (layer F.SilkS)
+    (fp_text reference D1 (at -0.0254 -1.4 90) (layer F.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
-    (fp_text value D_Small (at 0 1.925) (layer B.SilkS) hide
+    (fp_text value D_Small (at 0 1.925 90) (layer B.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start -2.54 -0.762) (end 2.54 -0.762) (layer F.SilkS) (width 0.15))
@@ -4902,17 +4902,17 @@
     (fp_line (start 2.032 0.762) (end 2.032 -0.762) (layer F.SilkS) (width 0.15))
     (fp_line (start 1.905 -0.762) (end 1.905 0.762) (layer F.SilkS) (width 0.15))
     (fp_line (start 1.778 -0.762) (end 1.778 0.762) (layer F.SilkS) (width 0.15))
-    (pad 1 thru_hole rect (at 3.9 0 180) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask B.SilkS)
+    (pad 1 thru_hole rect (at 3.9 0 90) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask B.SilkS)
       (net 1 row1))
-    (pad 2 thru_hole circle (at -3.9 0 180) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask B.SilkS)
+    (pad 2 thru_hole circle (at -3.9 0 90) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask B.SilkS)
       (net 2 "Net-(D1-Pad2)"))
-    (pad 1 smd rect (at 2.5 0 180) (size 2.9 0.5) (layers F.Cu)
+    (pad 1 smd rect (at 2.5 0 90) (size 2.9 0.5) (layers F.Cu)
       (net 1 row1))
-    (pad 1 smd rect (at 1.4 0 180) (size 1.6 1.2) (layers F.Cu F.Paste F.Mask)
+    (pad 1 smd rect (at 1.4 0 90) (size 1.6 1.2) (layers F.Cu F.Paste F.Mask)
       (net 1 row1))
-    (pad 2 smd rect (at -1.4 0 180) (size 1.6 1.2) (layers F.Cu F.Paste F.Mask)
+    (pad 2 smd rect (at -1.4 0 90) (size 1.6 1.2) (layers F.Cu F.Paste F.Mask)
       (net 2 "Net-(D1-Pad2)"))
-    (pad 2 smd rect (at -2.5 0 180) (size 2.9 0.5) (layers F.Cu)
+    (pad 2 smd rect (at -2.5 0 90) (size 2.9 0.5) (layers F.Cu)
       (net 2 "Net-(D1-Pad2)"))
     (model ${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.step
       (offset (xyz 0 0 -1.8))
