@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:oya45-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -15,10 +14,10 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L keebio:Elite-C U1
+L keebio:Elite-C U?
 U 1 1 612C7099
 P 3000 3150
-F 0 "U1" H 3000 3987 60  0000 C CNN
+F 0 "U?" H 3000 3987 60  0000 C CNN
 F 1 "Elite-C" H 3000 3881 60  0000 C CNN
 F 2 "" V 4050 650 60  0001 C CNN
 F 3 "" V 4050 650 60  0001 C CNN
@@ -906,6 +905,17 @@ F 3 "" H 7425 4825 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
+L Device:D_Small D36
+U 1 1 61374F3D
+P 8000 5100
+F 0 "D36" V 8046 5032 50  0000 R CNN
+F 1 "D_Small" V 7955 5032 50  0000 R CNN
+F 2 "" V 8000 5100 50  0001 C CNN
+F 3 "~" V 8000 5100 50  0001 C CNN
+	1    8000 5100
+	0    -1   -1   0   
+$EndComp
+$Comp
 L MX_Alps_Hybrid:MX-NoLED MX35
 U 1 1 61375469
 P 7550 4850
@@ -917,6 +927,17 @@ F 3 "" H 6925 4825 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
+L Device:D_Small D35
+U 1 1 6137546F
+P 7500 5100
+F 0 "D35" V 7546 5032 50  0000 R CNN
+F 1 "D_Small" V 7455 5032 50  0000 R CNN
+F 2 "" V 7500 5100 50  0001 C CNN
+F 3 "~" V 7500 5100 50  0001 C CNN
+	1    7500 5100
+	0    -1   -1   0   
+$EndComp
+$Comp
 L MX_Alps_Hybrid:MX-NoLED MX35
 U 1 1 61377FE9
 P 7500 4850
@@ -926,6 +947,17 @@ F 2 "" H 6875 4825 60  0001 C CNN
 F 3 "" H 6875 4825 60  0001 C CNN
 	1    7500 4850
 	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D35
+U 1 1 61377FEF
+P 7450 5100
+F 0 "D35" V 7496 5032 50  0000 R CNN
+F 1 "D_Small" V 7405 5032 50  0000 R CNN
+F 2 "" V 7450 5100 50  0001 C CNN
+F 3 "~" V 7450 5100 50  0001 C CNN
+	1    7450 5100
+	0    -1   -1   0   
 $EndComp
 Connection ~ 5750 2550
 Wire Wire Line
@@ -1127,7 +1159,20 @@ Connection ~ 6550 5200
 Wire Wire Line
 	6550 5200 7050 5200
 Connection ~ 7050 5200
+Wire Wire Line
+	7050 5200 7450 5200
+Connection ~ 7450 5200
+Wire Wire Line
+	7450 5200 7500 5200
+Connection ~ 7500 5200
+Wire Wire Line
+	7500 5200 7550 5200
 Connection ~ 7550 5200
+Wire Wire Line
+	7550 5200 8000 5200
+Connection ~ 8000 5200
+Wire Wire Line
+	8000 5200 8050 5200
 Connection ~ 8050 5200
 Wire Wire Line
 	8050 5200 8550 5200
@@ -1368,17 +1413,4 @@ F 3 "~" V 5550 2100 50  0001 C CNN
 	1    5550 2100
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	7050 5200 7550 5200
-Wire Wire Line
-	7550 5200 8050 5200
-Wire Wire Line
-	7450 5000 7500 5000
-Connection ~ 7550 5000
-Connection ~ 7500 5000
-Wire Wire Line
-	7500 5000 7550 5000
-Wire Wire Line
-	8000 5000 8050 5000
-Connection ~ 8050 5000
 $EndSCHEMATC
