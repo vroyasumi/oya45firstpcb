@@ -526,7 +526,7 @@
   )
 
   (module MX_Only:MXOnly-2U-Hotswap-ReversedStabilizers (layer B.Cu) (tedit 60F271DB) (tstamp 612C5754)
-    (at 161.925 114.3 180)
+    (at -40.080001 25.85015 180)
     (path /61374F37)
     (attr smd)
     (fp_text reference MX48 (at 0 -3.175) (layer F.Fab)
@@ -585,7 +585,7 @@
   )
 
   (module MX_Only:MXOnly-2U-Hotswap-ReversedStabilizers (layer B.Cu) (tedit 60F271DB) (tstamp 612C5728)
-    (at 123.825 114.3 180)
+    (at -155.530001 5.01015 180)
     (path /61377FE9)
     (attr smd)
     (fp_text reference MX47 (at 0 -3.175) (layer F.Fab)
@@ -644,7 +644,7 @@
   )
 
   (module MX_Only:MXOnly-6U-Centered-Hotswap-ReversedStabilizers (layer B.Cu) (tedit 60F27653) (tstamp 612C56FC)
-    (at 142.875 114.3 180)
+    (at -78.180001 5.01015 180)
     (path /61375469)
     (fp_text reference MX46 (at 0 -3.175) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -692,7 +692,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C56DA)
-    (at 142.875 38.1 180)
+    (at -105.635001 25.201251 180)
     (path /612DFC1C)
     (attr smd)
     (fp_text reference MX45 (at 0 -3.175) (layer F.Fab)
@@ -747,7 +747,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C56B2)
-    (at 123.825 38.1 180)
+    (at -30.555001 66.241251 180)
     (path /612DF65D)
     (attr smd)
     (fp_text reference MX44 (at 0 -3.175) (layer F.Fab)
@@ -802,7 +802,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C568A)
-    (at 104.775 38.1 180)
+    (at -50.755001 48.241251 180)
     (path /612DF021)
     (attr smd)
     (fp_text reference MX43 (at 0 -3.175) (layer F.Fab)
@@ -857,7 +857,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C5662)
-    (at 85.725 38.1 180)
+    (at -70.955001 48.241251 180)
     (path /612DEA53)
     (attr smd)
     (fp_text reference MX42 (at 0 -3.175) (layer F.Fab)
@@ -912,7 +912,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C563A)
-    (at 66.675 38.1 180)
+    (at -50.755001 68.441251 180)
     (path /612DDAF7)
     (attr smd)
     (fp_text reference MX41 (at 0 -3.175) (layer F.Fab)
@@ -967,7 +967,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C5612)
-    (at 228.6 114.3 180)
+    (at -30.555001 86.441251 180)
     (path /612DD5F6)
     (attr smd)
     (fp_text reference MX40 (at 0 -3.175) (layer F.Fab)
@@ -1022,7 +1022,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C55EA)
-    (at 209.55 114.3 180)
+    (at -185.255001 4.361251 180)
     (path /612DD0E1)
     (attr smd)
     (fp_text reference MX39 (at 0 -3.175) (layer F.Fab)
@@ -1077,7 +1077,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C55C2)
-    (at 190.5 114.3 180)
+    (at -166.235001 44.761251 180)
     (path /612DCB9F)
     (attr smd)
     (fp_text reference MX38 (at 0 -3.175) (layer F.Fab)
@@ -1132,7 +1132,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C559A)
-    (at 171.45 114.3 180)
+    (at -30.555001 46.041251 180)
     (path /612DC482)
     (attr smd)
     (fp_text reference MX37 (at 0 -3.175) (layer F.Fab)
@@ -1187,7 +1187,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C5572)
-    (at 152.4 114.3 180)
+    (at -50.755001 88.641251 180)
     (path /612DBEE6)
     (attr smd)
     (fp_text reference MX36 (at 0 -3.175) (layer F.Fab)
@@ -1242,7 +1242,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C554A)
-    (at 133.35 114.3 180)
+    (at -91.155001 48.241251 180)
     (path /612DB9B3)
     (attr smd)
     (fp_text reference MX35 (at 0 -3.175) (layer F.Fab)
@@ -1297,7 +1297,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C5522)
-    (at 114.3 114.3 180)
+    (at -125.835001 25.201251 180)
     (path /612DB3FE)
     (attr smd)
     (fp_text reference MX34 (at 0 -3.175) (layer F.Fab)
@@ -1352,7 +1352,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C54FA)
-    (at 95.25 114.3 180)
+    (at -185.255001 24.561251 180)
     (path /612DABAB)
     (attr smd)
     (fp_text reference MX33 (at 0 -3.175) (layer F.Fab)
@@ -1407,7 +1407,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C54D2)
-    (at 76.2 114.3 180)
+    (at -146.035001 25.201251 180)
     (path /612DA588)
     (attr smd)
     (fp_text reference MX32 (at 0 -3.175) (layer F.Fab)
@@ -1462,7 +1462,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer B.Cu) (tedit 60F271EF) (tstamp 612C54AA)
-    (at 57.15 114.3 180)
+    (at -111.355001 45.401251 180)
     (path /612D9F38)
     (attr smd)
     (fp_text reference MX31 (at 0 -3.175) (layer F.Fab)
