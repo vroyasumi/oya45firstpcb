@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 0)
+    (drawings 6)
     (tracks 0)
     (zones 0)
     (modules 94)
@@ -240,7 +240,7 @@
   )
 
   (module Keebio-Parts:ArduinoProMicro (layer F.Cu) (tedit 5B307E4C) (tstamp 612C6C19)
-    (at 218.28125 38.1 180)
+    (at 208.75625 -4.7625 180)
     (path /612C8517)
     (fp_text reference U1 (at 0 1.625) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -3008,5 +3008,12 @@
     (pad 1 thru_hole circle (at -3.81 0 270) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 1 row1))
   )
+
+  (gr_arc (start 150.01875 30.95625) (end 152.4 30.95625) (angle -90) (layer F.SilkS) (width 0.12))
+  (gr_arc (start 235.74375 50.00625) (end 238.125 50.00625) (angle -90) (layer F.SilkS) (width 0.12))
+  (gr_arc (start 235.74375 121.44375) (end 235.74375 123.825) (angle -90) (layer F.SilkS) (width 0.12))
+  (gr_arc (start 50.00625 121.44375) (end 47.625 121.44375) (angle -90) (layer F.SilkS) (width 0.12))
+  (gr_arc (start 50.00625 50.00625) (end 50.00625 47.625) (angle -90) (layer F.SilkS) (width 0.12))
+  (gr_arc (start 59.53125 30.95625) (end 59.53125 28.575) (angle -90) (layer F.SilkS) (width 0.12))
 
 )
