@@ -15,17 +15,6 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L keebio:Elite-C U1
-U 1 1 612C7099
-P 3000 3150
-F 0 "U1" H 3000 3987 60  0000 C CNN
-F 1 "Elite-C" H 3000 3881 60  0000 C CNN
-F 2 "Keebio-Parts:Elite-C" V 4050 650 60  0001 C CNN
-F 3 "" V 4050 650 60  0001 C CNN
-	1    3000 3150
-	1    0    0    -1  
-$EndComp
-$Comp
 L MX_Alps_Hybrid:MX-NoLED MX5
 U 1 1 612CF6E7
 P 7600 2600
@@ -1381,4 +1370,15 @@ Wire Wire Line
 Wire Wire Line
 	8000 5000 8050 5000
 Connection ~ 8050 5000
+$Comp
+L keebio:ProMicro U?
+U 1 1 612C8517
+P 3000 3150
+F 0 "U?" H 3000 3987 60  0000 C CNN
+F 1 "ProMicro" H 3000 3881 60  0000 C CNN
+F 2 "" V 4050 650 60  0001 C CNN
+F 3 "" V 4050 650 60  0001 C CNN
+	1    3000 3150
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
