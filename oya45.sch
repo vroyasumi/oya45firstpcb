@@ -1201,35 +1201,19 @@ Text GLabel 5250 4450 0    50   Input ~ 0
 row3
 Text GLabel 5250 5200 0    50   Input ~ 0
 row4
-Text GLabel 2300 3000 0    50   Input ~ 0
-row0
-Text GLabel 2300 3100 0    50   Input ~ 0
-row1
-Text GLabel 2300 3200 0    50   Input ~ 0
-row2
-Text GLabel 2300 3300 0    50   Input ~ 0
-row3
-Text GLabel 2300 3400 0    50   Input ~ 0
-row4
-Text GLabel 2300 3500 0    50   Input ~ 0
-col0
-Text GLabel 2300 3600 0    50   Input ~ 0
-col1
-Text GLabel 2300 3700 0    50   Input ~ 0
-col2
-Text GLabel 3700 3700 2    50   Input ~ 0
-col3
-Text GLabel 3700 3600 2    50   Input ~ 0
-col4
-Text GLabel 3700 3500 2    50   Input ~ 0
-col5
 Text GLabel 3700 3400 2    50   Input ~ 0
-col6
+col3
 Text GLabel 3700 3300 2    50   Input ~ 0
-col7
+col4
 Text GLabel 3700 3200 2    50   Input ~ 0
-col8
+col5
 Text GLabel 3700 3100 2    50   Input ~ 0
+col6
+Text GLabel 2300 3200 0    50   Input ~ 0
+col7
+Text GLabel 2300 3100 0    50   Input ~ 0
+col8
+Text GLabel 2300 3000 0    50   Input ~ 0
 col9
 Connection ~ 5750 1800
 Wire Wire Line
@@ -1381,4 +1365,20 @@ F 3 "" V 4050 650 60  0001 C CNN
 	1    3000 3150
 	1    0    0    -1  
 $EndComp
+Text GLabel 2300 3700 0    50   Input ~ 0
+row0
+Text GLabel 2300 3600 0    50   Input ~ 0
+row1
+Text GLabel 2300 3500 0    50   Input ~ 0
+row2
+Text GLabel 2300 3400 0    50   Input ~ 0
+row3
+Text GLabel 2300 3300 0    50   Input ~ 0
+row4
+Text GLabel 3700 3700 2    50   Input ~ 0
+col0
+Text GLabel 3700 3600 2    50   Input ~ 0
+col1
+Text GLabel 3700 3500 2    50   Input ~ 0
+col2
 $EndSCHEMATC
