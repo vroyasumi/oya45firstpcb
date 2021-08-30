@@ -34,20 +34,20 @@
   )
 
   (setup
-    (last_trace_width 0.00508)
-    (trace_clearance 0.00508)
+    (last_trace_width 0.254)
+    (trace_clearance 0.2)
     (zone_clearance 0.508)
     (zone_45_only no)
-    (trace_min 0.00381)
+    (trace_min 0.2)
     (via_size 0.8)
     (via_drill 0.4)
-    (via_min_size 0.00381)
-    (via_min_drill 0.00762)
+    (via_min_size 0.4)
+    (via_min_drill 0.3)
     (uvia_size 0.3)
     (uvia_drill 0.1)
     (uvias_allowed no)
-    (uvia_min_size 0.00381)
-    (uvia_min_drill 0.00254)
+    (uvia_min_size 0.2)
+    (uvia_min_drill 0.1)
     (edge_width 0.05)
     (segment_width 0.2)
     (pcb_text_width 0.3)
@@ -162,8 +162,8 @@
   (net 69 "Net-(U1-Pad1)")
 
   (net_class Default "This is the default net class."
-    (clearance 0.00508)
-    (trace_width 0.00508)
+    (clearance 0.2)
+    (trace_width 0.254)
     (via_dia 0.8)
     (via_drill 0.4)
     (uvia_dia 0.3)
@@ -240,7 +240,7 @@
   )
 
   (module Keebio-Parts:ArduinoProMicro (layer F.Cu) (tedit 5B307E4C) (tstamp 612C6C19)
-    (at 219.86875 38.1 180)
+    (at 208.75625 -4.7625 180)
     (path /612C8517)
     (fp_text reference U1 (at 0 1.625) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
