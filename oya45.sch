@@ -1184,15 +1184,15 @@ F 3 "" V 4050 650 60  0001 C CNN
 	1    3000 3150
 	1    0    0    -1  
 $EndComp
-Text GLabel 3700 3000 2    50   Input ~ 0
+Text GLabel 3700 3400 2    50   Input ~ 0
 row0
-Text GLabel 3700 3100 2    50   Input ~ 0
+Text GLabel 3700 3300 2    50   Input ~ 0
 row1
 Text GLabel 3700 3200 2    50   Input ~ 0
 row2
-Text GLabel 3700 3300 2    50   Input ~ 0
+Text GLabel 3700 3100 2    50   Input ~ 0
 row3
-Text GLabel 3700 3400 2    50   Input ~ 0
+Text GLabel 3700 3000 2    50   Input ~ 0
 row4
 Text GLabel 3700 3500 2    50   Input ~ 0
 col0
