@@ -3324,14 +3324,14 @@
       (net 2 "Net-(D1-Pad2)"))
   )
 
+  (gr_arc (start 235.74375 121.44375) (end 235.74375 123.825) (angle -90) (layer B.SilkS) (width 0.12))
+  (gr_arc (start 50.00625 121.44375) (end 47.625 121.44375) (angle -90) (layer B.SilkS) (width 0.12))
   (gr_line (start 50.00625 28.575) (end 133.35 28.575) (layer B.SilkS) (width 0.12))
   (gr_line (start 235.74375 28.575) (end 228.6 28.575) (layer B.SilkS) (width 0.12))
   (gr_arc (start 50.00625 30.95625) (end 50.00625 28.575) (angle -90) (layer B.SilkS) (width 0.12))
   (gr_arc (start 235.74375 30.95625) (end 238.125 30.95625) (angle -90) (layer B.SilkS) (width 0.12))
   (gr_line (start 238.125 30.95625) (end 238.125 47.625) (layer B.SilkS) (width 0.12))
   (gr_line (start 47.625 30.95625) (end 47.625 47.625) (layer B.SilkS) (width 0.12))
-  (gr_arc (start 235.74375 121.44375) (end 235.74375 123.825) (angle -90) (layer F.SilkS) (width 0.12))
-  (gr_arc (start 50.00625 121.44375) (end 47.625 121.44375) (angle -90) (layer F.SilkS) (width 0.12))
 
   (segment (start 67.429 59.71875) (end 220.6625 59.71875) (width 0.254) (layer F.Cu) (net 1))
   (segment (start 66.675 59.71875) (end 67.429 59.71875) (width 0.254) (layer F.Cu) (net 1))
