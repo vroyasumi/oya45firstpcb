@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 8)
+    (drawings 9)
     (tracks 304)
     (zones 0)
     (modules 94)
@@ -3324,14 +3324,15 @@
       (net 2 "Net-(D1-Pad2)"))
   )
 
-  (gr_line (start 235.74375 28.575) (end 50.00625 28.575) (layer F.SilkS) (width 0.12) (tstamp 612F3D74))
-  (gr_line (start 238.125 121.44375) (end 238.125 30.95625) (layer F.SilkS) (width 0.12) (tstamp 612F3D73))
+  (gr_arc (start 50.00625 121.44375) (end 47.625 121.44375) (angle -90) (layer Edge.Cuts) (width 0.05))
+  (gr_arc (start 235.74375 121.44375) (end 235.74375 123.825) (angle -90) (layer Edge.Cuts) (width 0.05))
+  (gr_arc (start 235.74375 30.95625) (end 238.125 30.95625) (angle -90) (layer Edge.Cuts) (width 0.05))
+  (gr_arc (start 50.00625 30.95625) (end 50.00625 28.575) (angle -90) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 47.625 121.44375) (end 47.625 30.95625) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 235.74375 123.825) (end 50.00625 123.825) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 238.125 30.95625) (end 238.125 121.44375) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 50.00625 28.575) (end 235.74375 28.575) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 50.00625 123.825) (end 235.74375 123.825) (layer F.SilkS) (width 0.12) (tstamp 612F3D72))
-  (gr_line (start 47.625 30.95625) (end 47.625 121.44375) (layer F.SilkS) (width 0.12) (tstamp 612F3D71))
-  (gr_arc (start 235.74375 30.95625) (end 238.125 30.95625) (angle -90) (layer F.SilkS) (width 0.12))
-  (gr_arc (start 50.00625 30.95625) (end 50.00625 28.575) (angle -90) (layer F.SilkS) (width 0.12))
-  (gr_arc (start 235.74375 121.44375) (end 235.74375 123.825) (angle -90) (layer F.SilkS) (width 0.12))
-  (gr_arc (start 50.00625 121.44375) (end 47.625 121.44375) (angle -90) (layer F.SilkS) (width 0.12))
 
   (segment (start 67.429 59.71875) (end 220.6625 59.71875) (width 0.254) (layer F.Cu) (net 1))
   (segment (start 66.675 59.71875) (end 67.429 59.71875) (width 0.254) (layer F.Cu) (net 1))
